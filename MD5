@@ -1,0 +1,17 @@
+75d5bda3795643a8ffae45d602e348a9 *DESCRIPTION
+38b1f73766f39b9397e14195d1d06ac2 *NAMESPACE
+717c2f3461877d5b7310991a94263856 *NEWS
+3f081ab38583189c61130edfd24bdfe9 *R/csvy-package.R
+6a86a377cab6d2c455328f7b758b7e29 *R/read_csvy.R
+e389c2424e755c2de588040ef1c33db9 *R/write_csvy.R
+df670f2b834bfa9e54c3003c331d76c1 *README.md
+5ba28f1607c17e2ba0c710bad3538886 *inst/CITATION
+b80fc98b7502d9911f80b1fd3045f986 *inst/examples/example.csvy
+ff3fbec2f56364dc93b910430ae6873b *inst/examples/example2.csvy
+81acd8e5fb634d10e7a0f819a51a8516 *inst/examples/example3.csvy
+81acd8e5fb634d10e7a0f819a51a8516 *inst/examples/readme.csvy
+cce2075d2ae225712b78bbd84dc0b09e *man/csvy.Rd
+9b4e1d723fd5684a63508dd55ffcac24 *man/read_csvy.Rd
+abfd8ad0e489cbada2a54b39e8ab9b07 *man/write_csvy.Rd
+9a0a99b0d1934eff1138403c39180750 *tests/test-all.R
+2f535fb89339ec17fa696420264bb97e *tests/testthat/test_csvy.R
